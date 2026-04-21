@@ -8,7 +8,7 @@ The applications I want to prototype are a photo booth with rollers and chemistr
  - digital camera mount that follows the stars
  - gimbal that follows a bluetooth position
 
-# Begginer stepper motor project
+# Beginner stepper motor project
 
 # Parts list
 
